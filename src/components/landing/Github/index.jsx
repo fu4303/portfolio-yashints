@@ -11,7 +11,7 @@ export const Github = () => {
       query={graphql`
         {
           github {
-            repositoryOwner(login: "yashints") {
+            repositoryOwner(login: "fu4303") {
               repositories(
                 first: 5
                 orderBy: { field: UPDATED_AT, direction: DESC }
