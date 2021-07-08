@@ -5,17 +5,17 @@ module.exports = {
   author: 'Yaser Adel Mehraban (Yashints)',
   url: 'https://yashints.dev',
   rootUrl: 'yashints.dev',
-  legalName: 'Yaser Adel Mehraban',
-  shortName: 'Yas',
+  legalName: 'Alec Campbell',
+  shortName: 'ABC',
   siteGithubRepo:
-    'https://github.com/yashints/yashints.dev',
+    'https://github.com/fu4303/portfolio-yashints',
   defaultDescription:
-    'A front end lead engineer, international speaker, blogger and a hiker.',
+    'Man of mystery to himself, and dismay to others.',
   socialLinks: {
-    twitter: 'http://www.twitter.com/yashints',
-    github: 'https://github.com/yashints',
+    twitter: 'http://www.twitter.com/Alec4354478',
+    github: 'https://github.com/fu4303',
     linkedIn:
-      'https://www.linkedin.com/in/yashints',
+      'https://www.linkedin.com/in/doc22940',
     youtube: '',
     google: '',
   },
@@ -24,18 +24,18 @@ module.exports = {
   backgroundColor: '#00c6ff',
   siteRss: '/rss',
   social: {
-    twitter: 'yashints',
-    linkedIn: 'yashints',
-    github: 'yashints',
+    twitter: 'Alec4354478',
+    linkedIn: 'doc22940',
+    github: 'fu4303',
   },
   address: {
-    city: 'Melbourne',
-    region: 'VIC',
-    country: 'Australia',
-    zipCode: '3000',
+    city: 'Free Union',
+    region: 'Virginia',
+    country: 'USA',
+    zipCode: '22940',
   },
   contact: {
-    email: 'me@yashints.dev',
+    email: 'rsiyq924@gmail.com',
   },
-  foundingDate: '2012',
+  foundingDate: '000',
 }
