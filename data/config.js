@@ -1,8 +1,8 @@
 module.exports = {
-  defaultTitle: 'Yashints',
+  defaultTitle: 'fu4303',
   logo:
     'https://yashints.dev/favicon/logo-48.png',
-  author: 'Yaser Adel Mehraban (Yashints)',
+  author: 'Alec Campbell (fu4303)',
   url: 'https://yashints.dev',
   rootUrl: 'yashints.dev',
   legalName: 'Alec Campbell',
